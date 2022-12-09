@@ -1,0 +1,1 @@
+Methodologies correspond to the models and methods adopted to nowcast GDP and to reduce the dimensionality of data if necessary. 
