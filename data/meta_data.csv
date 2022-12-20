@@ -1,5 +1,5 @@
 group,category,code,name_df,name,source,frequency,original,order,transf,tcode,transf_code,days_lag,where
-0,Produção,22099,gdp,PIB trimestral - Dados observados - preços de mercado,IBGE,Q,Index,I(1),diff,2,3,63,BCB
+0,Produção,22099,gdp,PIB trimestral - Dados observados - preços de mercado,IBGE,Q,Index,I(1),pctchg,2,3,63,BCB
 0,Produção,24363,ibc_br,Índice de Atividade Econômica do Banco Central - IBC-Br        ,BCB,M,Index,I(1),diff,2,3,52,BCB
 0,Produção,4380,mon_gdp,PIB mensal - Valores correntes (R$ milhões)	,BCB,M,R$,I(1),diff,2,4,48,BCB
 0,Produção,21859,ind_prod,Indicadores da produção (2012=100) - Produção Industrial - Geral	,IBGE,M,Index,I(1),diff,2,3,30,BCB
